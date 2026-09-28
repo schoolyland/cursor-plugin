@@ -1,0 +1,34 @@
+{
+  "name": "schoolyland",
+  "displayName": "Schoolyland",
+  "description": "Run your WordPress course business from Cursor or Grok Bot: pages and Elementor, WooCommerce, LearnDash, FluentCRM email marketing, forms and SEO — through your Schoolyland account.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Schoolyland",
+    "email": "info@schoolyland.com"
+  },
+  "publisher": "schoolyland",
+  "homepage": "https://schoolyland.com/my-mcp/",
+  "repository": "https://github.com/schoolyland/cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "schoolyland",
+    "wordpress",
+    "woocommerce",
+    "learndash",
+    "fluentcrm",
+    "elementor",
+    "online-courses",
+    "email-marketing",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "wordpress",
+    "ecommerce",
+    "lms",
+    "crm",
+    "marketing"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "schoolyland": {
+      "type": "http",
+      "url": "https://mcp.schoolyland.com/mcp"
+    }
+  }
+}
